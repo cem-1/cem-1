@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @sirroott
-- 👀 I’m interested in all the filede of technology.
+- 👀 I’m interested in all the fields of technology.
+- 🧠 I know C, C#, SQL at intermediate level.
 - 🌱 I’m currently learning CSS HTML and JavaScript
 - 💞️ I’m looking to collaborate on web development.
 - 📫 How to reach me ? Here.
