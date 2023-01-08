@@ -1,5 +1,5 @@
-- 👋 Hi, I’m cem. I’m interested in all the fields of technology. I know C, C#, SQL, CSS and HTML at intermediate level.
-- 🌱 I’m currently learning JavaScript, i started to use github with coding some basic exercises with Javascript.
+- 👋 Hi, I’m cem. I’m using C, C#, SQL, CSS, HTML, Javascript.
+- 🌱 I’m currently trying to learn more about React.js and Node.js.
 
 <!---
 sirroott/sirroott is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
