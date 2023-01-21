@@ -1,5 +1,8 @@
-- 👋 Hi, I’m cem. I am trying to learn more about C, C#, SQL, CSS, HTML, Javascript.
-- 🌱 I’m currently trying to learn more about React.js and Node.js.
+- Hi! I am cem.
+- Started to programming with C, C#.
+- Learned RDBMS concept and basic SQL.
+- Focused on web development, thus using HTML, CSS, Javascript.
+- Now learning more about node.js and compatible npm packages with node.js
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cem-1&theme=tokyonight)
 
