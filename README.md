@@ -1,11 +1,10 @@
 - Hi! I am cem.
-- Started to programming with C, C#.
-- Learned RDBMS concept and basic SQL.
+- Started programming with learning C, then learned OOP concept with C#.
+- Learned RDBMS concept and basic SQL with using POSTGRES.
 - Focused on web development, thus using HTML, CSS, Javascript.
-- Now learning more about node.js and compatible npm packages with node.js
+- Now learning more about NODE.JS and compatible npm packages with node.js
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cem-1&theme=tokyonight)
-
 
 <!---
 sirroott/sirroott is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
