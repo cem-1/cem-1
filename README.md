@@ -1,4 +1,4 @@
-- Hi! I am cem.
+- Hi! 
 - Started programming with learning C, then learned OOP concept with C#.
 - Learned RDBMS concept and basic SQL with using POSTGRES.
 - Focused on web development, thus using HTML, CSS, Javascript.
