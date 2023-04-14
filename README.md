@@ -1,8 +1,7 @@
-- Hi! 
-- Started programming with learning C, then learned OOP concept with C#.
-- Learned RDBMS concept and basic SQL with using POSTGRES.
-- Focused on web development, thus using HTML, CSS, Javascript.
-- Now learning more about NODE.JS and compatible npm packages with node.js
+- C, C# and Javascript.
+- Focusing on Javascript, especially node.js runtime and React. 
+- Interested in network engineering.
+- Trying some LLM libraries. 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cem-1&theme=tokyonight)
 
